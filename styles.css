@@ -1,38 +1,38 @@
 #name {
-    background-color: black;
-    color: white;
-    text-align: center;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
 
 #skills {
-    width: 60%;
-    text-align: center;
+  width: 60%;
+  text-align: center;
 }
 
 #goals {
-    float: left;
-    width: 50%;
+  float: left;
+  width: 50%;
 }
 
 #image {
-    width: 200px;
-    height: 120px;
+  width: 200px;
+  height: 120px;
 }
 
 #image img {
-    width: 75%;
-    height: auto;
+  width: 75%;
+  height: auto;
 }
 
 #information:after {
-    display: table;
-    clear: both;
+  display: table;
+  clear: both;
 }
 
 .work {
-    font-size: 12pt;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    text-emphasis-color: blue;
-    background-color: yellow;
+  font-size: 12pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  text-emphasis-color: blue;
+  background-color: yellow;
 }
